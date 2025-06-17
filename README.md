@@ -15,4 +15,8 @@ you're doing.
 #### Commands
 - `/itemblacklist` (Requires permission `itemvoid.manageblacklist`) - Opens the item blacklist GUI
 
-![A demo of the plugin functionality](https://github.com/Stonley890/ItemVoid/blob/main/ItemVoidDemoSmall.GIF)
+![A demo of the plugin functionality](https://github.com/BogTheMudWing/ItemVoid/blob/main/ItemVoidDemoSmall.GIF)
+
+---
+
+[![BogTheMudWing](https://nextcloud.macver.org/apps/files_sharing/publicpreview/jyWLnm4i724mxXg?file=/&fileId=61792&x=3390&y=1906&a=true&etag=c43260166526abc326861afd5244df8e)](https://blog.macver.org/about-me)
